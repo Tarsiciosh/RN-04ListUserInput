@@ -1,0 +1,17 @@
+{
+  "name": "04ListUserInput",
+  "displayName": "04ListUserInput",
+  "expo": {
+    "name": "04ListUserInput",
+    "slug": "04ListUserInput",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
